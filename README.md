@@ -106,10 +106,7 @@ authentication-system/
 ├── public/
 │ ├── css/
 │ │ └── styles.css
-│ ├── js/
-│ │ └── scripts.js
-│ └── images/
-│ └── logo.png
+│
 ├── .env
 ├── .gitignore
 ├── index.js

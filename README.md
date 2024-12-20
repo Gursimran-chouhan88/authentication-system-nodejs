@@ -85,7 +85,7 @@ Packages
 
 ## folder Structure
 
-Authentication-system/
+authentication-system/
 ├── src/
 │ ├── controllers/
 │ │ └── authController.js
@@ -104,8 +104,12 @@ Authentication-system/
 │ │ │ ├── resetPassword.ejs
 │ │ │ └── home.ejs
 ├── public/
-│ └── css/
-│ └──styles.css
+│ ├── css/
+│ │ └── styles.css
+│ ├── js/
+│ │ └── scripts.js
+│ └── images/
+│ └── logo.png
 ├── .env
 ├── .gitignore
 ├── index.js

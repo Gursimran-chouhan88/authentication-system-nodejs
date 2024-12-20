@@ -85,34 +85,7 @@ Packages
 
 ## folder Structure
 
-authentication-system/
-├── src/
-│ ├── controllers/
-│ │ └── authController.js
-│ ├── database/
-│ │ └── db.js
-│ ├── models/
-│ │ └── user.js
-│ ├── passport/
-│ │ └── passport.js
-│ ├── routes/
-│ │ └── authRoutes.js
-│ ├── views/
-│ │ ├── auth/
-│ │ │ ├── login.ejs
-│ │ │ ├── register.ejs
-│ │ │ ├── resetPassword.ejs
-│ │ │ └── home.ejs
-├── public/
-│ ├── css/
-│ │ └── styles.css
-│
-├── .env
-├── .gitignore
-├── index.js
-├── package.json
-├── package-lock.json
-└── README.md
+![alt text](<Screenshot 2024-12-20 164404.jpg>)
 
 ## Authors
 

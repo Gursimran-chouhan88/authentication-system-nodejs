@@ -1,0 +1,46 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+.login-box {
+  display: flex;
+  height: 300px;
+  width: 300px;
+  justify-content: center;
+  align-content: center;
+}
+*/ .err-msg {
+  border-radius: 8px;
+  margin-bottom: 12px;
+  color: red;
+}
+
+.box {
+  background-color: white;
+
+  transition: all 0.2s ease-in-out;
+}
+
+.box:hover {
+  box-shadow: 2px 2px 4px 4px rgba(0, 0, 0, 0.3);
+  transform: scale(1.02);
+}
+
+.msg {
+  text-align: center;
+  font-size: 26px;
+  height: 60px;
+  display: flex;
+}
+
+.msg-s {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.para {
+  color: red;
+  text-align: center;
+  width: 100%;
+}
